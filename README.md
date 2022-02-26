@@ -8,6 +8,6 @@ step 2:Creating/Uploading Webpage on github Repository<br>
 step 3:Create Azure Student Account<br>
 step 4:Go to Create a Resource and search for Static Web app then click create and connect your project on github <br>
 
-<h1>See the hosted webpage here:-</h1>
-https://blue-dune-0cb6d2f1e.1.azurestaticapps.net/
+<!-- <h1>See the hosted webpage here:-</h1>
+https://blue-dune-0cb6d2f1e.1.azurestaticapps.net/ -->
 
